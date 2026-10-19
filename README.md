@@ -29,7 +29,6 @@ Lenders need a fast way to judge how risky a loan application is. This project c
 - **Confidence score** and progress bar based on the model's predicted probability
 - Friendly error message if an input value is not one the model was trained on
 
-> 📸 *Add a screenshot of the app here:* `![App Screenshot](screenshots/app.png)`
 
 ---
 
